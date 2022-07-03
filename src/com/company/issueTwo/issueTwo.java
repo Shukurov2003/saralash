@@ -1,4 +1,4 @@
-package com.company.issueThree;
+package com.company.issueTwo;
 
 import java.util.Scanner;
 
